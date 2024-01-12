@@ -1,0 +1,48 @@
+@font-face {
+    font-family: "Onest-Regular";
+    src: url("/artbloggers/fonts/OnestRegular1602-hint.ttf") format("truetype");
+    font-style: normal;
+    font-weight: normal;
+}
+
+@font-face {
+    font-family: "Onest-Medium";
+    src: url("/artbloggers/fonts/OnestMedium1602-hint.ttf") format("truetype");
+    font-style: normal;
+    font-weight: normal;
+}
+
+@font-face {
+    font-family: "Onest-Bold";
+    src: url("/artbloggers/fonts/OnestBold1602-hint.ttf") format("truetype");
+    font-style: normal;
+    font-weight: normal;
+}
+
+@font-face {
+    font-family: "Originals";
+    src: url("/artbloggers/fonts/Originals.otf") format("truetype");
+    font-style: normal;
+    font-weight: normal;
+}
+    
+@font-face {
+    font-family: "Inter-Regular";
+    src: url("/artbloggers/fonts/Inter-Regular.ttf") format("truetype");
+    font-style: normal;
+    font-weight: normal;
+}
+    
+@font-face {
+    font-family: "Barlow-SemiBold";
+    src: url("/artbloggers/fonts/Barlow-SemiBold.ttf") format("truetype");
+    font-style: normal;
+    font-weight: normal;
+}
+    
+@font-face {
+    font-family: "Barlow-Medium";
+    src: url("/artbloggers/fonts/Barlow-Medium.ttf") format("truetype");
+    font-style: normal;
+    font-weight: normal;
+}
